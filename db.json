@@ -1,5 +1,5 @@
 {
   "user": 
-    { "id": 1, "name": "Dolan Bob" },
+    { "id": 1, "firstName": "Dolan", "lastName":"Bob" },
    
 }
